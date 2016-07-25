@@ -1,0 +1,14 @@
+layout_spectrum: 0.6608914381358773
+typography_spectrum: 0.0652106455527246
+color:
+  brandStrength: 0.7523527266457677
+  lightness: 0.8857938321307302
+  saturation: 0.9639699917752296
+  rhythmicContrast: 0.4197762212716043
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: fff
